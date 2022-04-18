@@ -1,0 +1,7 @@
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\bin\Debug\UAMS_Complete.exe.config
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\bin\Debug\UAMS_Complete.exe
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\bin\Debug\UAMS_Complete.pdb
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\obj\Debug\UAMS_Complete.csproj.AssemblyReference.cache
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\obj\Debug\UAMS_Complete.csproj.CoreCompileInputs.cache
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\obj\Debug\UAMS_Complete.exe
+E:\semester 2\OOPS\Documentation projects\UAMS_Complete\UAMS_Complete\obj\Debug\UAMS_Complete.pdb
